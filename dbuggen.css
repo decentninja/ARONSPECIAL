@@ -5,7 +5,7 @@
     /*font-family: "Sketchetik";*/
     color: #111;
     font-weight: 400;
-    margin: 3em auto;
+    margin: 0 auto;
     text-align: center;
   }
   .text {
@@ -65,7 +65,7 @@
   img.hero {
     width: 100vw;
     height: auto;
-    margin: 1em auto;
+    margin: 0 auto;
   }
   img {
     width: 100%;
